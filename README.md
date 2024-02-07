@@ -28,9 +28,6 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 - **Fast and Solve Algorithm** - Hybrid Classical-Quantum algorithm for Quantum Generative Model.
 - **Analog Quantum Simulation of Lattice Gauge Theory with Silicon** - Finite Temperature Hartree-Fock-Bogoliubov simulation method for next generation of solid-state based quantum simulators.
 
-## 📈 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 
