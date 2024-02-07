@@ -2,6 +2,7 @@
 
 # 👋 Hi there, I'm Ali!
 
+
 Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photographer, specializing in Classical and Quantum Machine Learning, LLMs with a passion for building the next generation of intelligence to handle the next phase of discoveries! Here, you'll find projects ranging from Analog Quantum Simulations and Quantum Generative Models to LLMOps, each a testament to my journey at the intersection of Physics and Computer Science.
 
 ## 🚀 About Me
@@ -36,3 +37,5 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 - **Twitter**: [www.x.com/alirad](https://www.x.com/alirad)
 - **Blog/Website**: [www.alirad.space](https://www.alirad.space)
 
+
+![QC](QC.gif)
