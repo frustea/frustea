@@ -4,6 +4,9 @@
 
 
 Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photographer, specializing in Classical and Quantum Machine Learning, LLMs with a passion for building the next generation of intelligence to handle the next phase of discoveries! Here, you'll find projects ranging from Analog Quantum Simulations and Quantum Generative Models to LLMOps, each a testament to my journey at the intersection of Physics and Computer Science.
+<p align="center">
+  <img src="frustea.gif" width="70%" />
+</p>
 
 ## 🚀 About Me
 
@@ -39,5 +42,5 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 
 
 <p align="center">
-  <img src="QC.gif" width="70%" />
+  <img src="frustea.gif" width="70%" />
 </p>
