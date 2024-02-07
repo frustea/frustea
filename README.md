@@ -38,4 +38,6 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 - **Blog/Website**: [www.alirad.space](https://www.alirad.space)
 
 
-![QC](QC.gif)
+<p align="center">
+  <img src="QC.gif" width="70%" />
+</p>
