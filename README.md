@@ -8,7 +8,7 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 
 - 👨‍💻 Currently, I'm open to work.
 - 🌱 Learning the next generation of RAG methods.
-- 💬 Ask me about Quantum Learning.
+- 💬 Ask me about why I named my account "frustea"? :) 
 - 📫 How to reach me: Message me on LinkedIn 
 - 😄 Pronouns: Alison, but without the -son :)
 - ⚡ Fun fact: I traveled from the East Coast to the West Coast of the US within 36 hours, nonstop.
