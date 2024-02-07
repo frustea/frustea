@@ -41,6 +41,14 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 - **Blog/Website**: [www.alirad.space](https://www.alirad.space)
 
 
+<br> <br> 
+
+Thanks for visiting. Me and Sleepy Coder (below) wish you the best! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about all things data. ☺️
+
+
+
+
+<br> 
 <p align="center">
-  <img src="frustea.gif" width="70%" />
+  <img src="sleepy_coder.jpg" width="40%" />
 </p>
