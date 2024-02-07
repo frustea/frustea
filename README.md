@@ -25,7 +25,7 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 
 ## 🌟 Highlight Projects
 
-- **Fast and Solve Algorithm** - Hybrid Classical-Quantum algorithm for Quantum Generative Model.
+- **Fast and Solve Algorithm** - Hybrid Classical-Quantum algorithm for Quantum Generative Model. [https://github.com/frustea/Quantum-Fast-and-Slow](https://github.com/frustea/Quantum-Fast-and-Slow)
 - **Analog Quantum Simulation of Lattice Gauge Theory with Silicon** - Finite Temperature Hartree-Fock-Bogoliubov simulation method for next generation of solid-state based quantum simulators.
 
 
