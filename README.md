@@ -9,7 +9,7 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 - 👨‍💻 Currently, I'm open to work.
 - 🌱 Learning the next generation of RAG methods.
 - 💬 Ask me about Quantum Learning.
-- 📫 How to reach me: Message me on LinkedIn or email me at hiairno@gmail.com.
+- 📫 How to reach me: Message me on LinkedIn 
 - 😄 Pronouns: Alison, but without the -son :)
 - ⚡ Fun fact: I traveled from the East Coast to the West Coast of the US within 36 hours, nonstop.
 
