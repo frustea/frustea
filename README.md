@@ -11,7 +11,7 @@ Welcome to my GitHub space! I'm a physicist, AI Scientist, and Nightscape Photog
 ## 🚀 About Me
 
 - 👨‍💻 Currently, I have just graduated from the PhD program and I am "open to work" for the next step in my journey
-- 🌱 Learning the next generation of RAG methods.
+- 🌱 Learning the next generation of multimodal RAG methods.
 - 💬 Ask me about why I named my account "frustea"? :) 
 - 📫 How to reach me: Message me on LinkedIn 
 - 😄 Pronouns: Alison, but without the -son :)
